@@ -1,0 +1,12 @@
+{
+  "name": "berry-parcel-missing-linux-package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ertrzyiks/berry-parcel-missing-linux-package.git",
+  "author": "ertrzyiks <mateusz.derks@gmail.com>",
+  "license": "MIT",
+  "packageManager": "yarn@3.2.2",
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  }
+}
